@@ -1,4 +1,4 @@
-package com.example.selenidecucumber.pages;
+package io.github.kovi77.selenidecucumber.pages;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;

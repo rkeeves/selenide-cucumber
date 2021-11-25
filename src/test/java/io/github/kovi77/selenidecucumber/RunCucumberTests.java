@@ -1,4 +1,4 @@
-package com.example.selenidecucumber;
+package io.github.kovi77.selenidecucumber;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty", "html:target/cucumber-reports.html"},
         features = {"src/test/resources/features"},
-        glue = {"com.example.selenidecucumber.steps"},
+        glue = {"io.github.kovi77.selenidecucumber.steps"},
         monochrome = true
 )
 public class RunCucumberTests {

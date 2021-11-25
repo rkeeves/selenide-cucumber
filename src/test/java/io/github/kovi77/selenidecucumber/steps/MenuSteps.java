@@ -1,7 +1,7 @@
-package com.example.selenidecucumber.steps;
+package io.github.kovi77.selenidecucumber.steps;
 
-import com.example.selenidecucumber.pages.IDEDefaultPage;
-import com.example.selenidecucumber.pages.MainPage;
+import io.github.kovi77.selenidecucumber.pages.IDEDefaultPage;
+import io.github.kovi77.selenidecucumber.pages.MainPage;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
