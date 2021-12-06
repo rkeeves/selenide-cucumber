@@ -1,0 +1,7 @@
+user-dictionary:
+  users:
+    user-regular:
+      username: "uat"
+      firstname: "uat"
+      lastname: "uat"
+      password: "abcdABCD1234$="
